@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+<style type="text/css">
+
+
+p{
+	color:#F00;
+}
+
+h1{	
+	
+	color:#360;
+}
+
+h3{
+	
+}
+
+
+
+header{
+	background-color:#ffffff;
+	
+	
+}
+div{}
+
+header img{width:18%;float:left;
+border-color:#000;
+border:double;
+vertical-align:text-bottom;}
+
+span#user{
+	
+	vertical-align:bottom;
+	
+	background-color:#C93;
+	display:inline-table;
+	
+    border: 3px solid #73AD21;
+	}
+
+span.formdiv{
+	
+	display:inline-table;}
+	
+
+article {clear:left;
+border: 3px solid red;  }
+.maindiv{
+	float:none;
+	width:100%;
+	height:100%;
+	
+	clear:left;
+border: 3px solid red; 
+
+	background-color:#ffffff;
+}
+
+.communication h2{font-size:0.5;}
+/* CSS Document */
+
+
